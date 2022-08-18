@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pineappleXmen
-- 👀 I’m interested in Java and Golang
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on distrubuted systems
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pineapple -a master major in env.
+- 👀 I’m interested in Java and Golang stack
+- 😊 My website share basic algorithm & Java stack learning notes at http://120.48.87.150/
+- 😘 Glad to hear from you
 
-<!---
-pineappleXmen/pineappleXmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
